@@ -11,7 +11,6 @@
 ---
 
 ## When to Register an App
-
 # Note: App Registration is the GLOBAL manifestation of the application in your tenant or a vendor's tenant like CrowdStrike or Microsoft or Cava.
 # Enterprise Applications is the LOCAL manifestation of the application in the tenant. It is the blade that houses all of the service principals.
 
